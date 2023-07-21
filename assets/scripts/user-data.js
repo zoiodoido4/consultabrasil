@@ -5,7 +5,7 @@ $(document).ready(function () {
   var user_birthdate = urlParams.get("birth");
 
   // Valor disponivel para saque
-  var amount = "R$5.983,47";
+  var amount = "R$680,20";
 
   // Prazo maximo para pagar (DIAS)
   var maxDate = 2;
